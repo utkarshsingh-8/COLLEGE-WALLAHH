@@ -46,6 +46,37 @@ int main()
      cin >> num;
      (num > 0) ? cout << "Number is Positive " << num : cout << "The number is negative and skipped";*/
 
+    // Create a calculator using switch statement to perform addition,subtraction,multiplication and division.
+    /*int a,b;
+    cout<<"Enter the value of a and b"<<endl;
+    cin>>a>>b;
+
+    char ch;
+    cout<<"Enter the operator you want to perform operations"<<endl;
+    cin>>ch;
+
+    switch (ch)
+    {
+    case '+':
+        cout<<a+b;
+        break;
+
+    case '-':
+        cout<<a-b;
+        break;
+
+    case '/':
+        cout<<a/b;
+        break;
+
+    case '*':
+        cout<<a*b;
+        break;
+
+    default:
+        break;
+    }*/
+
     // Write a program to calculate marks to grades . Follow the conversion rule as given below
     /*int marks;
     cout << "Enter the Marks" << endl;

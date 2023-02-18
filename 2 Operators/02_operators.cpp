@@ -52,5 +52,12 @@ int main()
     sum = first + second + third;
     cout << "the sum of the first and the second last digit of a three digit number is : " << sum;*/
 
+    //Design a calculator to perform basic arithmetic operations (+,-,/,*,%)
+    /*int a=8,b=10;
+    cout<<"Sum "<<a+b<<endl;
+    cout<<"Difference "<<a-b<<endl;
+    cout<<"Product "<<a*b<<endl;
+    cout<<"Division "<<(float)a/b<<endl;*/
+
     return 0;
 }
