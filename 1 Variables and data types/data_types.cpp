@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     // - Take 2 integer values in two variables x and y and print their product 
+    // int c,d;
     /*int x, y;
     cout << "Enter the value of x and y" << endl;
     cin >> x >> y;
